@@ -6,8 +6,8 @@
 **Team Name**: SHADOWS  
 
 **Team Members**:  
-- **Team Lead**: SIDHARTH D - [College]  
-- **Member 2**: SANJU LAKSHMAN B - [College]  
+- **Team Lead**: SIDHARTH D - [College of Engineering Attingal]  
+- **Member 2**: SANJU LAKSHMAN B - [College of Engineering Attingal]  
 
 ---
 
@@ -162,7 +162,7 @@ flowchart TD
 
 **Additional Demos**:  
 - **GitHub Repository**: [https://github.com/UG-SIDHARTH/useless_project_temp](https://github.com/UG-SIDHARTH/useless_project_temp)  
-- **Live Local URL**: `http://localhost:9000/`
+- **Live Local URL**: `https://shadow.ugsidharth.in/)`
 
 ---
 
